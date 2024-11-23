@@ -62,11 +62,6 @@
 
 <br>
 
-<h3 align="center">📟 Services 📟</h3>
-<p align="center">
-  🗃️ <a href="https://fileshare.lincors.com">FileShare</a> <img src="https://img.shields.io/website-up-down-green-red/http/minio.lincors.com.svg" alt="FileShare"/>
-</p>
-
 <br><br>
 
 <p align="center">
